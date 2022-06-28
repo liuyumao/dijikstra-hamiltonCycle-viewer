@@ -16,8 +16,6 @@
 
 ---
 
-[TOC]
-
 
 
 #### 一、迪杰斯特拉(Dijikstra)
@@ -26,9 +24,18 @@
 
 ##### 1. 第一个版本，界面截图如下
 
+![p1](https://user-images.githubusercontent.com/89370087/176125227-83c4dce5-2679-44fa-b6c9-21034a672fe4.png)
+![p2](https://user-images.githubusercontent.com/89370087/176125244-ce133b2f-1e80-408b-bfb5-9ab10b8c6694.png)
+![p3](https://user-images.githubusercontent.com/89370087/176125256-b4e266bc-2536-41d3-aa4a-56dbea43b350.png)
+![p4](https://user-images.githubusercontent.com/89370087/176125268-30b08d3e-e8c9-4b07-a38b-9aa487e13126.png)
+![p5](https://user-images.githubusercontent.com/89370087/176125290-58c21981-2d75-46fb-a06d-4fce253190a3.png)
+![p6](https://user-images.githubusercontent.com/89370087/176125323-758f5e18-de9d-432e-8a65-8ede1078f80f.png)
 
 
 ##### 2. 第二个版本，界面截图如下：
+
+![p55](https://user-images.githubusercontent.com/89370087/176125676-397ef17a-015d-4ae2-b4b5-3d9587308b60.png)
+
 
 ##### 3. 不足之处
 
@@ -51,21 +58,16 @@
 
 
 ##### 1. 界面截图
+![p1](https://user-images.githubusercontent.com/89370087/176125809-724e6c7a-ba88-4f53-9b5f-030346ec13bf.png)
+![p2](https://user-images.githubusercontent.com/89370087/176125820-362ced3d-a2b0-40ed-9b27-d47589ec8d51.png)
+![p3](https://user-images.githubusercontent.com/89370087/176125842-c277a531-3fcb-4e26-9cff-fcd1ecb9fe3b.png)
+![p4](https://user-images.githubusercontent.com/89370087/176125860-61dbbdea-0751-4fb5-b0ff-56db7c7660f0.png)
+![p5](https://user-images.githubusercontent.com/89370087/176125878-8945876d-5eda-46a2-bb84-5e95d9d598da.png)
+![p6](https://user-images.githubusercontent.com/89370087/176125891-3942922a-aea3-4b7b-a3c9-14142a1d4975.png)
+![p7](https://user-images.githubusercontent.com/89370087/176125901-db31559c-d6e8-4d5d-9929-5a59416a2c63.png)
 
-
-
-
-
-##### 2. 不足之处
-
-
-
-
-
-
-
-##### 3. 最后说明
-
+##### 2. 最后说明
+&nbsp;      该程序的安装包对外发布，并给出源代码。
 
 
 
