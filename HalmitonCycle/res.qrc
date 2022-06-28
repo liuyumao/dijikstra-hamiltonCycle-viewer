@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/style.qss</file>
+        <file>qss/ver_scroll_bottom_arrow.png</file>
+        <file>qss/ver_scroll_top_arrow.png</file>
+        <file>font/fontawesome-webfont.ttf</file>
+        <file>logo.ico</file>
+    </qresource>
+</RCC>
